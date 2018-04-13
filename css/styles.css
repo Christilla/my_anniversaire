@@ -1,0 +1,61 @@
+body{
+ /*background-color: navy;*/
+ background-color: #FF5347;
+ width:100%;
+
+ color:white;
+}
+
+.newBody{
+  background: url('AKB48.gif') no-repeat;
+  background-size: 100%;
+}
+
+
+#V_française{
+  background-color:;
+  margin: 0px auto;
+  padding: 10px;
+  border: 2px solid white;
+  border-radius: 20px;
+  text-align: center;
+  width:500px;
+  font-size:3em;
+}
+
+#V_anglaise{
+   background-color: ;
+  margin: 0px auto;
+  padding: 10px;
+  border: 2px solid white;
+  border-radius: 20px;
+  text-align: center;
+  width:300px;
+   margin-top:30px;
+   font-size:2em;
+}
+
+#V_japonaise{
+   background-color: ;
+  margin: 0px auto;
+  padding: 10px;
+  border: 2px solid white;
+  border-radius: 20px;
+  text-align: center;
+  width:300px;
+     margin-top:30px;
+     font-size:2em;
+}
+
+#V_italien{
+ background-color: ;
+  margin: 0px auto;
+  padding: 10px;
+  border: 2px solid white;
+  border-radius: 20px;
+  text-align: center;
+  width:300px;
+    margin-top:30px;
+    font-size:2em;
+}
+
